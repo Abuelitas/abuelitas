@@ -1175,72 +1175,10 @@ section.lazy-placeholder:after {
 .cid-rP6umNduZ6 textarea.form-control {
   min-height: 188px;
 }
-.cid-rP6nkGTudD {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #f9d1b1;
-}
-@media (max-width: 767px) {
-  .cid-rP6nkGTudD .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rP6nkGTudD .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-rP6nkGTudD .media-wrap img {
-  height: 6rem;
-}
-.cid-rP6nkGTudD .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-rP6nkGTudD .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rP6nkGTudD .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-rP6nkGTudD .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-rP6nkGTudD .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
-}
-.cid-rP6nkGTudD .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rP6nkGTudD .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rP6nkGTudD .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rP6nkGTudD .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-rP6nkGTudD .links {
-  color: #ffffff;
+.cid-rPtymVcIbd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #edc786;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -1635,4 +1573,9 @@ section.lazy-placeholder:after {
   padding-top: 120px;
   padding-bottom: 75px;
   background-image: url("../../../assets/images/makrout-2-1024x630.jpeg");
+}
+.cid-rPtymVcIbd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #edc786;
 }
