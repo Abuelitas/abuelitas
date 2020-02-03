@@ -103,7 +103,7 @@ body {
   background-color: #193b38 !important;
 }
 .bg-warning {
-  background-color: #f2d8ac !important;
+  background-color: #edc786 !important;
 }
 .bg-danger {
   background-color: #dfab9e !important;
@@ -190,23 +190,23 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #f2d8ac !important;
-  border-color: #f2d8ac !important;
-  color: #895e16 !important;
+  background-color: #edc786 !important;
+  border-color: #edc786 !important;
+  color: #65450f !important;
 }
 .btn-warning:hover,
 .btn-warning:focus,
 .btn-warning.focus,
 .btn-warning.active {
-  color: #895e16 !important;
-  background-color: #e8b96a !important;
-  border-color: #e8b96a !important;
+  color: #65450f !important;
+  background-color: #e3a843 !important;
+  border-color: #e3a843 !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
-  color: #895e16 !important;
-  background-color: #e8b96a !important;
-  border-color: #e8b96a !important;
+  color: #65450f !important;
+  background-color: #e3a843 !important;
+  border-color: #e3a843 !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -354,22 +354,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #e4af54;
-  color: #e4af54;
+  border-color: #e09e2d;
+  color: #e09e2d;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
-  color: #895e16;
-  background-color: #f2d8ac;
-  border-color: #f2d8ac;
+  color: #65450f;
+  background-color: #edc786;
+  border-color: #edc786;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
-  color: #895e16 !important;
-  background-color: #f2d8ac !important;
-  border-color: #f2d8ac !important;
+  color: #65450f !important;
+  background-color: #edc786 !important;
+  border-color: #edc786 !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -438,7 +438,7 @@ body {
   color: #193b38 !important;
 }
 .text-warning {
-  color: #f2d8ac !important;
+  color: #edc786 !important;
 }
 .text-danger {
   color: #dfab9e !important;
@@ -467,7 +467,7 @@ a.text-info:focus {
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #e4af54 !important;
+  color: #e09e2d !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -488,7 +488,7 @@ a.text-black:focus {
   background-color: #193b38;
 }
 .alert-warning {
-  background-color: #f2d8ac;
+  background-color: #edc786;
 }
 .alert-danger {
   background-color: #dfab9e;
@@ -713,20 +713,23 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpeg");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #ffffff;
 }
+.cid-qTkA127IK8 H1 {
+  color: #ffffff;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #f2d8ac;
+  background: #f9deb1;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #f2d8ac;
+  background: #f9deb1;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -810,7 +813,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #f2d8ac;
+  background: #f9deb1;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1172,7 +1175,7 @@ section.lazy-placeholder:after {
 .cid-rP6nkGTudD {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #f2d8ac;
+  background-color: #f9deb1;
 }
 @media (max-width: 767px) {
   .cid-rP6nkGTudD .media-wrap {
@@ -1238,12 +1241,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #f2d8ac;
+  background: #f9deb1;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #f2d8ac;
+  background: #f9deb1;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1327,7 +1330,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #f2d8ac;
+  background: #f9deb1;
   display: none;
   position: absolute;
   min-width: 5rem;
