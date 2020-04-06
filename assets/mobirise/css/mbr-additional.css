@@ -1569,44 +1569,61 @@ section.lazy-placeholder:after {
 .cid-rUP06k1OAs .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rUVDMSwAue {
-  padding-top: 105px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-1920x1278.jpg");
+.cid-rVn8ZHqxwC {
+  padding-top: 135px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1808x1080.jpeg");
 }
-.cid-rUVDMSwAue .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
+.cid-rVn8ZHqxwC P {
+  color: #767676;
 }
-.cid-rUVDMSwAue .icons-media-container .mbr-iconfont {
-  font-size: 96px;
+.cid-rVn8ZHqxwC H1 {
   color: #ffffff;
 }
-.cid-rUVDMSwAue .icons-media-container .icon-block {
+.cid-rVo1IdNpiN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rVo1IdNpiN .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rVo1IdNpiN .formoid {
+  margin: auto;
+}
+.cid-rVo1IdNpiN .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rVo1IdNpiN .input-group-btn .btn {
+  padding-top: 1rem;
   padding-bottom: 1rem;
+  margin: 0 !important;
 }
-.cid-rUVDMSwAue .mbr-text {
-  color: #ffffff;
+.cid-rVo1IdNpiN a:not([href]):not([tabindex]) {
+  color: #fff;
 }
-.cid-rUVDMSwAue .card {
-  padding-bottom: 1.5rem;
+.cid-rVo1IdNpiN a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
 }
-.cid-rUVDMSwAue H1 {
-  color: #ffffff;
+@media (max-width: 768px) {
+  .cid-rVo1IdNpiN .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rVo1IdNpiN .form-group,
+  .cid-rVo1IdNpiN .input-group-btn,
+  .cid-rVo1IdNpiN .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
 }
-.cid-rUVDMSwAue .mbr-text,
-.cid-rUVDMSwAue .mbr-section-btn {
-  color: #232323;
-}
-.cid-rUVDMSwAue H5 {
-  color: #ffffff;
-  text-align: center;
+@media (min-width: 769px) {
+  .cid-rVo1IdNpiN .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
 }
 .cid-rUP06kDzzn {
   padding-top: 0px;
