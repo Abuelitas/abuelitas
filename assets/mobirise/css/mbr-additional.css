@@ -5553,42 +5553,6 @@ section.lazy-placeholder:after {
 .cid-rYOePvvg8x .card-img {
   text-align: center;
 }
-.cid-rYOqcsCotz {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rYOqcsCotz h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rYOqcsCotz p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-rYOqcsCotz .card-img {
-  width: auto;
-}
-.cid-rYOqcsCotz .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-rYOqcsCotz .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-rYOqcsCotz .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-rYOqcsCotz .card-img span {
-    font-size: 40px !important;
-  }
-}
 .cid-rYO8hXCiVg .navbar {
   padding: .5rem 0;
   background: #fafafa;
