@@ -5844,40 +5844,77 @@ section.lazy-placeholder:after {
 .cid-rYUcDD0BjL H1 {
   color: #233237;
 }
-.cid-rYUcDDqrlV {
+.cid-s01WRomKXz {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rYUcDDqrlV .mbr-section-subtitle {
+.cid-s01WRomKXz .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rYUcDDqrlV .media-row {
+.cid-s01WRomKXz .media-row {
   display: -webkit-flex;
   justify-content: center;
   -webkit-justify-content: center;
 }
-.cid-rYUcDDqrlV .team-item {
+.cid-s01WRomKXz .team-item {
   transition: all .2s;
   margin-bottom: 2rem;
 }
-.cid-rYUcDDqrlV .team-item .item-image img {
+.cid-s01WRomKXz .team-item .item-image img {
   width: 100%;
 }
-.cid-rYUcDDqrlV .team-item .item-name p {
+.cid-s01WRomKXz .team-item .item-name p {
   margin-bottom: 0;
 }
-.cid-rYUcDDqrlV .team-item .item-role p {
+.cid-s01WRomKXz .team-item .item-role p {
   margin-bottom: 0;
 }
-.cid-rYUcDDqrlV .team-item .item-social {
+.cid-s01WRomKXz .team-item .item-social {
   display: -webkit-flex;
   flex-wrap: wrap;
   justify-content: center;
   -webkit-flex-wrap: wrap;
   -webkit-justify-content: center;
 }
-.cid-rYUcDDqrlV .team-item .item-social .socicon {
+.cid-s01WRomKXz .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s01WSpge1D {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s01WSpge1D .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s01WSpge1D .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s01WSpge1D .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s01WSpge1D .team-item .item-image img {
+  width: 100%;
+}
+.cid-s01WSpge1D .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s01WSpge1D .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s01WSpge1D .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s01WSpge1D .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
 }
